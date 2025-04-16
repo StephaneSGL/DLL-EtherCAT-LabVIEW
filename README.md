@@ -18,6 +18,8 @@ This project wraps the open-source [`ethercat-lib`](https://github.com/kpierczy/
 
 1. Load the resulting `.dll` in LabVIEW using the **Call Library Function Node**
 2. Use provided wrapper functions to initialize EtherCAT, send/receive data, and clean up
+3. ![image](https://github.com/user-attachments/assets/fbe79fdb-db35-43e4-82a8-cc4561a989ed)
+
 
 ##  Structure
 
